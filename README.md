@@ -92,7 +92,9 @@ $ mssh -i connect_test i-067b509287e1f5cf4
 and the users should be encouraged to script this up for transparent simplicity.
 
 ## License
-Copyright 2020 Leap Beyond Emerging Technologies B.V.
+Copyright 2026 Little Dog Digital
+
+Portions Copyright 2020 Leap Beyond Emerging Technologies B.V.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
